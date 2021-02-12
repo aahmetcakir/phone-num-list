@@ -1,0 +1,9 @@
+.container{
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+html{
+  list-style-type: none;
+  box-sizing: border-box;
+}
